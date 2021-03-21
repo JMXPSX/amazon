@@ -1,0 +1,46 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Fujitsu
+  url: "https://www.fujitsu.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "https://docs.google.com/presentation/d/1kK9daDSbjJrFOwzkp08wQsJi96ovdl4s/edit#slide=id.p1"
+
+# a summary about you
+summary: "Full Stack Developer with 6+ years experience in software and web development. Core skills are JQuery and AngularJS for front-end and J2EE technologies like Spring Framework and Hibernate for back-end. Knowledgeable with code management using Git/SVN, Maven for automated java library management. Oracle and MySQL for database and also networking/hardware troubleshooting."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/JMXPSX"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/john-michael-go-58809869/"
+
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/JMXPSX"
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+#softSkills:
+#  - name: Leadership
+#    percentage: 85
+#    color: blue
+#  - name: Team Work
+#    percentage: 90
+#    color: yellow

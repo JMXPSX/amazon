@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Backend
+    # icon: "/images/sections/skills/kubernetes.png"
+    summary: "Java, Spring MVC, Spring Boot, Hibernate, GoLang, Amazon Web Services, XML/JSON"
+    # url: "https://kubernetes.io/"
+
+  - name: Frontend
+    # icon: "/images/sections/skills/go.png"
+    summary: "Angular, React, JavaScript ES5, TypeScript, HTML, CSS, Bootstrap"
+    # url: "https://golang.org/"
+
+  - name: Database
+    # icon: "assets/images/author/john.png"
+    summary: "MySQL, Oracle DB, Mongo DB"
+
+  - name: Virtual Assistance    
+    summary: "Product Research, Listing Creation, Supplier Sourcing, Inventory Management, Amazon Copywriting, Amazon Sponsored Ads"
+    
+  - name: Testing   
+    summary: "JUnit, Selenium, Cucumber"
+
+  - name: HTTP Server   
+    summary: "Apache Tomcat, NodeJS, ExpressJS"
+
+  - name: OS   
+    summary: "Ubuntu, Mint, Windows, Windows Server, Mac OSX, Android, iOS"
+
+  - name: Web   
+    summary: "Wordpress, Joomla, WAMP, XAMP"
+
+  - name: Graphics   
+    summary: "Adobe Photoshop, Adobe Illustrator, GIMP, Canva"

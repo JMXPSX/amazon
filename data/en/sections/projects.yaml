@@ -1,0 +1,88 @@
+# section information
+section:
+  name: Education / Training / Certification
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+# buttons:
+#   - name: All
+#     filter: "all"
+#   - name: Professional
+#     filter: "professional"
+#   - name: Academic
+#     filter: "academic"
+#   - name: Hobby
+#     filter: "hobby"
+
+# your projects
+projects:
+  - name: AMA Computer College
+    # logo: /images/sections/projects/kubernetes.png
+    role: Computer Science
+    timeline: "April 2005"
+    # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Best in Program April 2005 Graduating Class - Developed a game titled “Stack Attack” wherein it combines four block type puzzle games similar to Tetris™, Columns™ and Dr. Mario™. Programming language used was Visual Basic 6 while graphic was done using Adobe Photoshop and Flash. Integrated animation, audio and sound clips as well.
+    tags: ["professional", "computer", "college"]
+
+  - name: Amazon Nation PH
+    # logo: /images/sections/projects/tensorflow.png
+    role: Amazon Virtual Assistant
+    timeline: "March 2021"
+    # repo: https://github.com/tensorflow/tensorflow
+    #url: ""
+    summary: Help e-commerce business in the Amazon platform to engage, connect and boost online presence with tools and strategically manage online marketing through social media. Handles shipping arrangments, Manage product listing with eye catching title and product description. Set-up Amazon ads by finding correct keywords.
+    tags: ["professional", "virtual assistant", "amazon"]
+
+  - name: Oracle Certification
+    # logo: /images/sections/projects/toha.png
+    role: Java OCA 8 
+    timeline: "January 2020"
+    # repo: https://github.com/hossainemruz/toha
+    summary: Studied and passed Java OCA 8 certification
+    tags: ["java", "oracle", "certification"]
+
+  - name: Xavier Technical Training Center 
+    # logo: /images/sections/projects/toha.png
+    role: Computer Hardware Servicing 
+    timeline: "August 2016"
+    # repo: https://github.com/hossainemruz/toha
+    summary: Studied Computer Hardware, Network Troubleshooting and Electronics in order to be familiarized with development using Raspberry Pi and Arduino Uno.
+    tags: ["hobby", "computer", "servicing", "hardware"]
+
+  - name: TESDA
+    # logo: /images/sections/projects/toha.png
+    role: Java Software Course  
+    timeline: "February 2013"
+    # repo: https://github.com/hossainemruz/toha
+    summary: Developed a desktop application for TESDA RWAC (Registry of Certified Workers) Division. The team composed of 5 members and the final project before graduation of the course. The system was developed using Java, MySQL for database.
+    tags: ["java", "tesda", "software", "course"]
+
+  - name: UP ITDC 
+    # logo: /images/sections/projects/toha.png
+    role: Mobile Software Development  
+    timeline: "December 2013"
+    # repo: https://github.com/hossainemruz/toha
+    summary: Co-developed a prototype for logistics system using Java ME catered for Java based mobile phones and crowd-based delivery system.
+    tags: ["java", "tesda", "software", "course"]
+
+  - name: Accenture
+    # logo: /images/sections/projects/toha.png
+    role: Code Analysis / Performance Tuning 
+    timeline: "Accenture 2015"
+    # repo: https://github.com/hossainemruz/toha
+    summary: Studied about how a Java program to perform its computing tasks within the business response time requirements, and the ability of the application to fulfill its business functions under high volume, in a timely manner, with high reliability and low latency.
+    tags: ["java", "accenture", "analysis", "performance"]
+
+  - name: Accenture
+    # logo: /images/sections/projects/toha.png
+    role: Selenium Training 
+    timeline: "Accenture 2017"
+    # repo: https://github.com/hossainemruz/toha
+    summary: Studied about how to automate functional testing in an application using Selenium and Cucumber.
+    tags: ["java", "accenture", "selenium", "cucumber"]

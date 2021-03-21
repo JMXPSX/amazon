@@ -1,0 +1,106 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+  - company:
+      name: Fujitsu
+      url: "https://www.fujitsu.com"
+      location: Taguig Metro Manila 
+      # company overview
+      overview: Fujitsu is the leading Japanese global information and communication technology (ICT) company, offering a full range of technology products, solutions and services. We use our experience and the power of ICT to shape the future of society with our customers. Fujitsu people support customers in more than 100 countries.
+    positions:
+      - designation: Application Developer Analyst
+        start: Dec. 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Follows established PTS processes / systems creation to be aligned with the technical documentation needed for test and build preparation.
+          - Works within or under guidance from the project manager on implementation and supporting identification of the shortcomings of implemented technical designs to meet service delivery requirements.
+          - Provides assistance to leads in PTS reviews to lessen the workload.
+
+  - company:
+      name: Accenture
+      url: "https://www.accenture.com"
+      location: Mandaluyong Metro Manila
+      overview: Accenture Strategy provides business strategy, technology strategy and operations strategy services. Consulting provides technology, business and management consulting. This includes business process outsourcing, IT services, cloud services, managed operations and security.
+    positions:
+      - designation: Senior Software Engineer
+        start: Nov. 2015
+        end: July 2020
+        responsibilities:
+          - Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle.
+          - Determine operational feasibility by evaluating analysis, problem definition, requirements, solution development and proposed solutions.
+          - Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code.
+          - Prepare and install solutions by determining and designing system specifications, standards and programming.
+          
+  - company:
+      name: Solutions Resource
+      url: "https://www.solutionsresource.com"
+      location: Quezon City Metro Manila
+      overview: Since establishment in 2001, Solutions Resource has served an array of organizations globally. Our secret to success – having a team that is driven to innovate and empowered to be agile.
+    positions:
+      - designation: Full Stack Developer
+        start: Apr. 2013
+        end: June 2015
+        responsibilities:
+          - Communicated with end users and client to ensure the business requirements are met and also for requirement gathering.
+          - Developed across all layers of J2EE application (front-end, back-end and database) for logistics system.
+          - Designed and prepared reports using Pentaho. Also performed integration of reports into the system.
+          - Had input for the technical documentation of the system.
+          - Resolved technical and application issues found by software testers.
+
+  # - company:
+  #     name: Sitel
+  #     url: "https://www.sitel.com"
+  #     location: Pasig City Metro Manila
+  #     overview: Sitel is a privately owned contact center company headquartered in Miami, Florida. It provides outsourced sales, technical support, customer service, and other business processes for large companies.
+  #   positions:
+  #     - designation: Customer Support Representative
+  #       start: Dec. 2011
+  #       end: Sept. 2012
+  #       responsibilities:
+  #         - Provide client support and in-game issue resolution via email and chat.
+  #         - Identifying and escalating priority issues or customer complaints.
+  #         - Attempting to resolve all enquires on first contact with the customer.
+  #         - Having a professional and courteous manner at all times.    
+
+  # - company:
+  #     name: 24/7 Customer
+  #     url: "https://www.247.ai"
+  #     location: Makati City Metro Manila
+  #     overview: Sitel Philippines is a community of barkadahan. We grow together, support each other’s interest, understand and accept each other’s individuality and influence each other to become the best version of ourselves.
+  #   positions:
+  #     - designation: Technical Support Representative
+  #       start: July 2008
+  #       end: June 2011
+  #       responsibilities:
+  #         - Deliver and build customer satisfaction and loyalty.
+  #         - Provide effective and timely resolution of a range of customer inquiries.
+  #         - Strive for one-call resolution of customer issues.
+  #         - Complete ongoing training to stay abreast of product, service and policy changes.   
+  #         - Strike a positive and cooperative tone with both customers and coworkers.
+
+  # - company:
+  #     name: Teletech
+  #     url: "https:/www.ttecjobs.com"
+  #     location: Cainta City Metro Manila
+  #     overview: At TTEC, our purpose, vision, mission and values guide who we are and who we aspire to be, serving as the building blocks for the way we conduct business and build relationships. 
+  #   positions:
+  #     - designation: Technical Support Representative
+  #       start: July 2006
+  #       end: Mar. 2008
+  #       responsibilities:
+  #         - Troubleshoots customers Internet related concerns.
+  #         - Assists customers regarding their member services and email accounts.
+  #         - Process billing payments over the phone.
+  #         - Inform customers regarding the company’s other line of businesses and offer them the best upgrade package that will suit their needs.   
+          
